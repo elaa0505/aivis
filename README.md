@@ -53,7 +53,7 @@ python --version<br><br>
 pip install jpype1<br>
 pip install konlpy<br><br>
 
-**scikit-learn**
+**scikit-learn**<br>
 pip install scikit-learn<br><br>
 
 # Windows 용 자바 및 파이썬 환경변수 설정
