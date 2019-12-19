@@ -8,6 +8,7 @@ Artificial Intelligence Virtual Interview System<br><br>
 OpenJDK 8<br><br>
 
 **파이썬**<br>
+Python 3.6.8<br>
 KoNLPy - 한국어 정보처리<br>
 scikit-learn - 머신러닝<br><br>
 

@@ -1,6 +1,6 @@
 package aivis;
 
-public class test{
+public class Test{
     public static void main(String[] atgs){
         System.out.println("Hello World!");
     }

@@ -1,0 +1,2 @@
+1. textrank.py 코드 중간에 path 변수를 자신의 git directory가 위치한 주소로 변경하기
+2. 커맨드창에 python 명령어를 이용해 실행하기 ex.)python "자신의 git directory\aivis\Server\textrank\Textrank.py"
